@@ -1,0 +1,26 @@
+.box{
+    width:945px;
+    height:370px;
+    background-image: url("../img/02.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin:0 auto;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+
+p{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 5px;
+}
